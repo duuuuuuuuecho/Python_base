@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog >
+    <maxid>4</maxid>
+    <title>nihao1</title>
+    <login username="pytest" passwd='123456'>
+        <caption>Python</caption>
+        <item id="4">
+        	  <title>leihaola2</title>
+            <caption>测试</caption>
+        </item>
+    </login>
+    <title>€</title>
+    <item id="2">
+        <caption>Zope</caption>
+        <title>nihao4</title>
+    </item>
+</catalog>
